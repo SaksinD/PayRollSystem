@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNwaOh3HieuMwkwvE4bqDigsqj8ehN0liZIgGYAG25rJBaHlVGN/iF1cIjWq6QUNFTwTdBrwbOryMa5sljoEKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laksh\\Desktop\\pay\\PayRollSystem\\PayRollSystem.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laksh\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\laksh\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\laksh\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
